@@ -5,5 +5,5 @@ Este repositório contém exercícios de Python disponibilizados pelo Python Bra
 ## 📂Estrutura do Repositório
 Os exercícios estão organizados nas seguintes pastas:
 
-- **estrutura_sequencial/**
-- **estrutura_de_decisao/**
+- `estrutura_sequencial/`
+- `estrutura_de_decisao/`
